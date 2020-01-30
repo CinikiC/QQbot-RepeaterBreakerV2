@@ -1,0 +1,20 @@
+{
+  "name": "repeaterbreakerv2",
+  "version": "1.0.0",
+  "description": "QQbot to deal with repeaters in QQ groups, based on Newbe.Mahua.Frameworkv2 with node.js express, work with CQP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node app.js"
+  },
+  "keywords": [
+    "QQBot",
+    "CQP",
+    "Newbe.Mahua.Framework"
+  ],
+  "author": "Ciniki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
