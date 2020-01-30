@@ -1,7 +1,7 @@
 # QQbot-RepeaterBreakerV2
 ~~为庆祝复读机发明 28 周年发布的全新版本~~
 
-使用由 Newbe36524 开发的全新 Newbe.Mahua.Framework v2 以及 node.js experss 进行重写的防复读机器人。
+使用由 [Newbe36524](https://www.newbe.pro/) 开发的全新 [Newbe.Mahua.Framework v2](https://github.com/newbe36524/Newbe.Mahua.Framework) 以及 [node.js express](https://expressjs.com) 进行重写的防复读机器人。
 
 原有机器人的功能正在逐步测试中，请等待后续更新！
 
